@@ -1,0 +1,21 @@
+/* App.css */
+.container {
+  padding: 20px;
+  margin-top: 64px; /* Space below AppBar */
+}
+
+.drawer {
+  width: 240px; /* Width of the Drawer */
+}
+
+.drawer-paper {
+  top: 64px; /* Start below AppBar */
+}
+
+.app-bar {
+  z-index: 1300; /* Ensure AppBar is on top */
+}
+
+.menu-icon {
+  margin-right: 16px; /* Space next to menu icon */
+}
